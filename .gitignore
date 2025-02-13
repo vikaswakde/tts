@@ -174,3 +174,26 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Virtual Environment
+tts-env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+data/raw/*
+data/processed/*
+checkpoints/*
+logs/*
+
+# Keep .gitkeep files
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!checkpoints/.gitkeep
+!logs/.gitkeep
