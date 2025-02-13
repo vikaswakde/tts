@@ -12,6 +12,7 @@ setup(
         "scipy",
         "librosa",
         "phonemizer",
-        "pytest"
+        "pytest",
+        "matplotlib"
     ],
 ) 
