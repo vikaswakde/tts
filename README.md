@@ -50,8 +50,8 @@ pip install pandas tqdm matplotlib
 
 - [x] Project setup
 - [x] Configuration
-- [ ] Text normalization
-- [ ] Audio processing
+- [x] Text normalization
+- [x] Audio processing
 - [ ] Model implementation
 - [ ] Training pipeline
 - [ ] Inference API
